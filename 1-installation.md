@@ -46,7 +46,7 @@ While it's possible to use just the Trackable Entities NuGet packages without Vi
 - Open Visual Studio, then select Tools, **Extensions and Updates**.
 - Click the **Online** tab and search for **trackable**. Select **Trackable Entities for Visual Studio 2013 (or 2015)** and click Install.
 - You can also download the VSIX installer directly from the online **Visual Studio Extensions Gallery** for VS [2012](https://visualstudiogallery.msdn.microsoft.com/e6754f27-894d-45c4-833c-57aaa3288a31), [2013](http://visualstudiogallery.msdn.microsoft.com/74e6d323-c827-48be-90da-703a9fa8f530) or [2015](https://visualstudiogallery.msdn.microsoft.com/1815bc2c-e2ee-4df7-866f-fb8c45987515).
-- The VSIX installer is also available from the Trackable Entities [release page](https://github.com/tonysneed/trackable-entities/releases) on GitHub.
+- The VSIX installer is also available from the Trackable Entities [release page](https://github.com/TrackableEntities/trackable-entities/releases) on GitHub.
 
 ## NuGet Packages
 Trackable Entities is implemented as a set of **NuGet packages** which provide *change tracking for entities across service boundaries*.  One of the nice things about the Visual Studio templates is that they install the NuGet packages automatically when selecting one of the Trackable Entities project templates.  But you can also install the packages independently.  The packages are also versioned independently, and you should update them to the latest versions as they become available.

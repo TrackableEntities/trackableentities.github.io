@@ -3,7 +3,7 @@ layout: default
 title: Samples
 ---
 
-To further explore various aspects of Trackable Entities, you should have a look at the **Samples**, which you can download from the [latest release](https://github.com/tonysneed/trackable-entities/releases/latest). After downloading the **TrackableEntities-Samples.zip** file, you should first *unblock* it, by right-clicking in the File Explorer and selecting Properties. Then click the **Unblock** button.
+To further explore various aspects of Trackable Entities, you should have a look at the **Samples**, which you can download from the [latest release](https://github.com/TrackableEntities/trackable-entities/releases/latest). After downloading the **TrackableEntities-Samples.zip** file, you should first *unblock* it, by right-clicking in the File Explorer and selecting Properties. Then click the **Unblock** button.
 
 ![unblock samples zip file](images/te-samples-unblock.png)
 

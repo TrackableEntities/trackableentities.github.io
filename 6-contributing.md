@@ -3,10 +3,10 @@ layout: default
 title: Contributing
 ---
 
-**Trackable Entities** is an *open-source* project [hosted on GitHub](https://github.com/tonysneed/trackable-entities), which has great tools for providing feedback and contributing.  Here are a few guidelines for getting involved.
+**Trackable Entities** is an *open-source* project [hosted on GitHub](https://github.com/TrackableEntities/trackable-entities), which has great tools for providing feedback and contributing.  Here are a few guidelines for getting involved.
 
 ## Questions, Bugs, Proposals?
-If you have any **questions** about Trackable Entities you'd like answered, feel free to [post an issue](https://github.com/tonysneed/trackable-entities/issues) on the GitHub repo.  This is where you should also report **defects** or make **feature requests**.
+If you have any **questions** about Trackable Entities you'd like answered, feel free to [post an issue](https://github.com/TrackableEntities/trackable-entities/issues) on the GitHub repo.  This is where you should also report **defects** or make **feature requests**.
 
 ![new issue](images/issues-question.png)
 
@@ -15,7 +15,7 @@ Make use of [GitHub Flavored Markdown](https://help.github.com/articles/github-f
 ## Speaking in Code
 ```Code``` *speaks louder than words*.  The very best way to explain an issue is to link to a **GitHub repo** you've created with a small project that reproduces the issue.  It can be a simple console app or a unit test.  I can then **fork** the repro and create a **branch** where I can make code changes.  Then I can submit a **pull request** to share the changes with you. 
 
-If you're feeling adventurous, you can **fork** the [Trackable Entities repo](https://github.com/tonysneed/trackable-entities), then **clone** your fork and create a feature **branch**, where you can add a *failing unit test*.  When you **publish** your branch on GitHub, you'll see a button that allows you to create a **pull request** in order to share your code with me.  Then I can run the unit test to *reproduce the issue* and *issue a possible fix*.
+If you're feeling adventurous, you can **fork** the [Trackable Entities repo](https://github.com/TrackableEntities/trackable-entities), then **clone** your fork and create a feature **branch**, where you can add a *failing unit test*.  When you **publish** your branch on GitHub, you'll see a button that allows you to create a **pull request** in order to share your code with me.  Then I can run the unit test to *reproduce the issue* and *issue a possible fix*.
 
 ## Learn Git and GitHub
 **Every developer needs to learn Git**.  It's how open source is done, and the sooner you get on board, the more you'll benefit from all the goodness.  And **Visual Studio 2013** includes [Git integration](https://msdn.microsoft.com/en-us/library/hh850437.aspx) that makes it easy.  To get up to speed, there is a series of videos to jump start you on using **Git with Visual Studio**.
@@ -27,7 +27,7 @@ The other thing you'll need to learn is [GitHub](https://github.com/), which mea
 [![GitHub Training Videos](http://img.youtube.com/vi/5oJHRbqEofs/0.jpg)](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 
 ## Contributing
-*I'm happy to accept contributions!*  If you have an idea or would like to contribute, start by creating a [new issue](https://github.com/tonysneed/trackable-entities/issues), where we can discuss it.  Please **create an issue** *before submitting a pull request*.  Then, if we're on the same page about what needs to be done, you can then submit a pull request with your new feature or contribution.  Here are some helpful articles on best practices for submitting pull requests to open source projects.
+*I'm happy to accept contributions!*  If you have an idea or would like to contribute, start by creating a [new issue](https://github.com/TrackableEntities/trackable-entities/issues), where we can discuss it.  Please **create an issue** *before submitting a pull request*.  Then, if we're on the same page about what needs to be done, you can then submit a pull request with your new feature or contribution.  Here are some helpful articles on best practices for submitting pull requests to open source projects.
 
 - [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
 - [Don't "Push" Your Pull Requests](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/)
