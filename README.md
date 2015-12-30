@@ -1,3 +1,3 @@
 # Trackable Entities Documentation
 
-http://tonysneed.github.io/trackable-entities/
+http://trackableentities.github.io
